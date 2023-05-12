@@ -1,0 +1,37 @@
+body{
+    background-image: linear-gradient(to left, black, aquamarine);
+}
+#main{
+    width: 600px;
+    height: 200px;
+    margin-left: 25%;
+    color: white;
+    background-image: linear-gradient(to right, black,#c0c0);
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 100px;
+    border-radius: 50%;
+}
+
+#ligar{
+    width: 100px;
+    height: 70px;
+    background-image: linear-gradient(to right, aquamarine, black);
+    color: white;
+    margin-left: 38%;
+    margin-top: 50px;
+}
+
+#desligar{
+    width: 100px;
+    height: 70px;
+    background-image: linear-gradient(to left, black, aquamarine);
+    color:white;
+    margin-left: 5%;
+}
+
+span{
+    color: rgb(60, 60, 175);
+    font-weight: bold;
+}
